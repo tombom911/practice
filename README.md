@@ -67,8 +67,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -109,7 +107,7 @@ You can deploy this project using:
 
 > Features to be added.
 
-- [ ] **[Add more projects.]**
+- [ ] **[Add more projects]**
 - [ ] **[Add milestones and achievements]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
