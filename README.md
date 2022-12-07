@@ -32,7 +32,7 @@
 
 > The project is a second milestone in building a portfolio website, which create a mobile website section where my portfolio projects are listed.
 
-**[Portfolio: finish mobile version]** is a...
+**[Portfolio: finish mobile version]** is...
 
 ## 🛠 Built With <a name="built-with"></a>
 
